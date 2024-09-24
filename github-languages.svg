@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="299.75114805408043" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="299.75114805408043" y="0" width="68.96636650504118" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="368.7175145591216" y="0" width="52.061109828369126" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="420.7786243874907" y="0" width="28.063316144590676" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="448.84194053208137" y="0" width="11.158059467918623" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="299.6742671009772" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="299.6742671009772" y="0" width="68.94867783220909" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="368.62294493318626" y="0" width="52.0477570596835" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="420.67070199286974" y="0" width="28.17410038728872" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="448.84480238015846" y="0" width="11.155197619841495" height="8" fill="#cb171e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                             </div>
                             <small>
                                 <div>50.8 kB</div>
-                                <div>65.16%</div>
+                                <div>65.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -50,7 +50,7 @@
                             </div>
                             <small>
                                 <div>8.82 kB</div>
-                                <div>11.32%</div>
+                                <div>11.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -87,8 +87,8 @@
                                 JSON
                             </div>
                             <small>
-                                <div>4.76 kB</div>
-                                <div>6.1%</div>
+                                <div>4.78 kB</div>
+                                <div>6.12%</div>
                             </small>
                         </div>
                     </section>
