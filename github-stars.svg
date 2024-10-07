@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serverless-dns/serverless-dns</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tina-hello/doh-cf-workers</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DNS-over-HTTPS proxy on Cloudflare Workers</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hickory-dns/hickory-dns</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust based DNS client, server, and resolver</div>
