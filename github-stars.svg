@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>epam/ai-dial-chat</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A default UI for AI DIAL</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>epam/ai-dial-core</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The main component of AI DIAL, which provides unified API to different chat completion and embedding models, assistants, and applications</div>
